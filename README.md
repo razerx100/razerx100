@@ -1,6 +1,5 @@
 ### Hi there 👋
-# 🌱 I’m currently learning game development with Unity
-check out my games at https://razerx100.github.io
+# 🌱 I’m currently learning game/engine development.
 <!--
 **razerx100/razerx100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
