@@ -1,5 +1,5 @@
 ### Hi there 👋
-# 🌱 I’m currently learning game/engine development.
+# 🌱 I’m currently learning game engine development.
 <!--
 **razerx100/razerx100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
