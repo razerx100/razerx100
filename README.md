@@ -1,5 +1,5 @@
 ### Hi there 👋
-# 🌱 I’m currently learning game engine development.
+# I love C++ and want to do all kinds of C++ stuffs.
 <!--
 **razerx100/razerx100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
