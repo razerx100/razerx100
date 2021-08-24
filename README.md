@@ -1,4 +1,4 @@
-# Hello. I am Shoikot. [こんにちは私はショイコットです。]
+# Hello, I am Shoikot. [こんにちは、私はショイコットです。]
 I love science in general. All kinds of science.
 But I myself am trying to specialize in Programming.
 I love low level programming, Assembly and C++.
