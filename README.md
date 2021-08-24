@@ -1,4 +1,4 @@
-# Konnichiwa. Watashi wa Shoikot desu.
+# Konnichiwa. Watashi wa Shoikot desu. [こんにちは私はショイコットです。]
 I love science in general. All kinds of science.
 But I myself am trying to specialize in Programming.
 I love low level programming, Assembly and C++.
@@ -8,7 +8,7 @@ I love DirectX12 ❤️ and am trying to make a decent
 3D engine with DirectX12. Though I've plan to
 do a Vulkan implementation later down the road.
 And maybe someday a full fledged Game Engine xD.
-## Dewa, arigatou gozaimasu.
+## Arigatou gozaimasu. [ありがとうございます。]
 <!--
 **razerx100/razerx100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
