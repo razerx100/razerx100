@@ -1,4 +1,4 @@
-# Konnichiwa, min'na san. Watashi wa Saikat desu.
+# Konnichiwa. Watashi wa Shoikot desu.
 I love science in general. All kinds of science.
 But I myself am trying to specialize in Programming.
 I love low level programming, Assembly and C++.
