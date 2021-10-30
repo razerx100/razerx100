@@ -12,6 +12,10 @@ My main targeted platform is Windows
 but I might try to support Android as well, idk.
 
 A lil bit more about myself.
+I love music. I listen to all kinds of Metal and
+Japanese Pop. Japanese Pop only,
+I absolutely despise most English Pop music except few
+old ones which, I have grown up with.
 I love both dogs and cats.
 Want to own a Shiba and a British Shorthair.
 I really love to know about history.
