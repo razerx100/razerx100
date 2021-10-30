@@ -1,13 +1,27 @@
-# Hello, I am Shoikot. [こんにちは、私はショイコットと言います。]
-I love science in general. All kinds of science.
-But I myself am trying to specialize in Programming.
-I love low level programming, Assembly and C++.
-But asm is too painful, so C++. I love doing all
-kinds of stuff with C++ but mainly I do 3D programming.
-I love DirectX12 ❤️ and am trying to make a decent
-3D engine with DirectX12. Though I've plan to
-do a Vulkan implementation later down the road.
-And maybe someday a full fledged Game Engine xD.
+# Hello, I am Saikat (pronounced Shoikot).
+[こんにちは、私はショイコットと言います。]
+I love all kinds of science.
+But I am trying to get better in Programming.
+I love low level programming, graphics programming and C++.
+I love making different tools with C++ 
+but 3D/graphics programming is my jam.
+I am trying to write a renderer 
+with DirectX12, OpenGL and Vulkan support.
+Using lots of Dynamic Libraries and DI.
+My main targeted platform is Windows 
+but I might try to support Android as well, idk.
+
+A lil bit more about myself.
+I love both dogs and cats.
+Want to own a Shiba and a British Shorthair.
+I really love to know about history.
+While still on that topic,
+I consider myself a self proclaimed linguistic.
+I love learning new human languages as well as their culture.
+I find Kanji or Chinese characters really interesting.
+Oh and even though I love literally all things science,
+I favor Cosmology more.
+
 ## Thank you very much. [ありがとうございました。]
 <!--
 **razerx100/razerx100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
