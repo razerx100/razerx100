@@ -22,7 +22,7 @@ I can express myself perfectly in Bengali and English.
 But my pronunciation game in English isn't very good (yet). 
 I'm trying hard to perfect my British accent.
 I'm also learning Japanese and can make simple conversations.
-I find Kanji really interesting.
+I find Kanji fascinating [面白い].
 Oh and even though I love literally all things science,
 I favor Cosmology.
 
