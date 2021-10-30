@@ -18,7 +18,11 @@ I really love to know about history.
 While still on that topic,
 I consider myself a self proclaimed linguistic.
 I love learning new human languages as well as their culture.
-I find Kanji or Chinese characters really interesting.
+I can express myself perfectly in Bengali and English.
+But my pronunciation game in English isn't very good (yet). 
+I'm trying hard to perfect my British accent.
+I'm learning Japanese and can make simple conversations.
+I find Kanji really interesting.
 Oh and even though I love literally all things science,
 I favor Cosmology more.
 
