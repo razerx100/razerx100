@@ -21,10 +21,10 @@ I love learning new human languages as well as their culture.
 I can express myself perfectly in Bengali and English.
 But my pronunciation game in English isn't very good (yet). 
 I'm trying hard to perfect my British accent.
-I'm learning Japanese and can make simple conversations.
+I'm also learning Japanese and can make simple conversations.
 I find Kanji really interesting.
 Oh and even though I love literally all things science,
-I favor Cosmology more.
+I favor Cosmology.
 
 ## Thank you very much. [ありがとうございました。]
 <!--
