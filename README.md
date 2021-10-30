@@ -18,7 +18,7 @@ I absolutely despise most English Pop music except few
 old ones, which I have grown up with.
 I love both dogs and cats.
 Want to own a Shiba and a British Shorthair.
-I really love to know about history.
+I really love learning about history.
 While still on that topic,
 I consider myself a self proclaimed linguistic.
 I love learning new human languages as well as their culture.
