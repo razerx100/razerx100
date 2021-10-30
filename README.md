@@ -1,7 +1,7 @@
 # Hello, I am Saikat (pronounced Shoikot).
 [こんにちは、私はショイコットと言います。]\
 I love all things science.
-But I am trying to get better in Programming.
+But I am trying to get better at Programming.
 I love low level programming, graphics programming and C++.
 I love making different tools with C++ 
 but 3D/graphics programming is my jam.
