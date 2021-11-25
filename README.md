@@ -23,8 +23,8 @@ While still on that topic,
 I consider myself a self proclaimed linguistic.
 I love learning new human languages as well as their culture.
 I can express myself perfectly in Bengali and English.
-But my pronunciation game in English isn't very good (yet). 
-I'm trying hard to perfect my British accent.
+But my pronunciations in English aren't very good (yet). 
+I'm trying to do British accent.
 I'm also learning Japanese and can make simple conversations.
 I find Kanji fascinating [面白い].
 Oh and even though I love literally all things science,
