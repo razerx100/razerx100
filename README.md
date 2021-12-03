@@ -1,15 +1,15 @@
 # Hello, I am Saikat (pronounced Shoikot).
 [こんにちは、私はショイコットと言います。]\
 I love all things science.
-But I am trying to get better at Programming.
+Currently though, I am trying to get better at Programming.
 I love low level programming, graphics programming and C++.
 I love making different tools with C++ 
 but 3D/graphics programming is my jam.
 I am trying to write a renderer 
-with DirectX12, OpenGL and Vulkan support.
+with DirectX12 and Vulkan support.
 Using lots of Dynamic Libraries and DI.
 My main targeted platform is Windows 
-but I might try to support Android as well, idk.
+but I might try to support Android and (some Window Managers) Linux as well, idk.
 
 A lil bit more about myself.
 I love music. I listen to all kinds of Metal and
