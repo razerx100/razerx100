@@ -24,11 +24,11 @@ I consider myself a self proclaimed linguistic.
 I love learning new human languages as well as their culture.
 I can express myself perfectly in Bengali and English.
 But my pronunciations in English aren't very good (yet). 
-I'm trying to do British accent.
+I'm trying adopt British accent.
 I'm also learning Japanese and can make simple conversations.
 I find Kanji fascinating [面白い].
 Oh and even though I love literally all things science,
-I favor Cosmology.
+I love Cosmology the most.
 
 ## Thank you very much. [ありがとうございました。]
 <!--
