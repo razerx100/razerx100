@@ -20,14 +20,14 @@ I love both dogs and cats.
 Want to own a Shiba and a British Shorthair.
 I really love learning about history.
 While still on that topic,
-I consider myself a self proclaimed linguistic and polyglot.
+I consider myself a self proclaimed linguistic and polyglot xD.
 I love learning new human languages as well as their culture.
 I can express myself perfectly in Bengali and English.
 But I am not very good at talking to other people.
-I'm also learning Japanese and can make simple conversations.
+I'm also learning Japanese and can make simple conversations. Though I am getting better at Japanese at an alarming rate might I say xD.
 I find Kanji fascinating [面白い].
-Oh and even though I love literally all things science,
-I love Cosmology the most.
+I love Cosmology the most among all things science. I would really love to see humanity as a spacefaring civilization before dying.
+I would also like to visit Earth's moon and Mars one day.
 
 ## Thank you very much. [ありがとうございました。]
 <!--
