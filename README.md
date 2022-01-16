@@ -4,7 +4,7 @@ I love all things science.
 Currently though, I am trying to get better at Programming.
 I love low level programming, graphics programming and C++.
 I love making different tools with C++ 
-but graphics programming is fascinating.
+but I find graphics programming the most fascinating.
 I am currently trying to write a renderer 
 with DirectX12 and Vulkan support.
 Using lots of Dynamic Libraries and DI.
