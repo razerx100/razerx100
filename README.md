@@ -4,8 +4,8 @@ I love all things science.
 Currently though, I am trying to get better at Programming.
 I love low level programming, graphics programming and C++.
 I love making different tools with C++ 
-but 3D/graphics programming is my jam.
-I am trying to write a renderer 
+but graphics programming is fascinating.
+I am currently trying to write a renderer 
 with DirectX12 and Vulkan support.
 Using lots of Dynamic Libraries and DI.
 My main targeted platform is Windows 
@@ -20,11 +20,10 @@ I love both dogs and cats.
 Want to own a Shiba and a British Shorthair.
 I really love learning about history.
 While still on that topic,
-I consider myself a self proclaimed linguistic.
+I consider myself a self proclaimed linguistic and polyglot.
 I love learning new human languages as well as their culture.
 I can express myself perfectly in Bengali and English.
-But my pronunciations in English aren't very good (yet). 
-I'm trying adopt British accent.
+But I am not very good at talking to other people.
 I'm also learning Japanese and can make simple conversations.
 I find Kanji fascinating [面白い].
 Oh and even though I love literally all things science,
