@@ -1,5 +1,5 @@
 # Hello, I am Saikat (pronounced Shoikot).
-[こんにちは、私はショイコットと言います。]\
+[こんにちは、私はショイコットと言います。私のGitHubにようこそ。]\
 I love all things science.
 Currently though, I am trying to get better at Programming.
 I love low level programming, graphics programming and C++.
