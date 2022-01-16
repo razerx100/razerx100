@@ -11,7 +11,7 @@ Using lots of Dynamic Libraries and DI.
 My main targeted platform is Windows 
 but I might try to support Android and (some Window Managers) Linux as well, idk.
 
-A lil bit more about myself.
+A little bit more about myself.
 I love music. I listen to all kinds of Metal and
 Japanese Pop. Japanese Pop only,
 I absolutely despise most English Pop music except few
