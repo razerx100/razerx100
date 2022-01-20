@@ -1,11 +1,11 @@
 # 初めまして、私はショイコットと言います。私のGitHubにようこそ。
 
-I love all things science.
-Currently though, I am trying to get better at Programming.
+I love everything related to science.
+But currently I am trying to be a better programmer.
 I love low level programming, graphics programming and C++.
 I love making different tools with C++ 
 but I find graphics programming the most fascinating.
-I am currently trying to write a renderer 
+I am currently trying to make a game engine 
 with DirectX12 and Vulkan support.
 Using lots of Dynamic Libraries and DI.
 My main targeted platform is Windows 
