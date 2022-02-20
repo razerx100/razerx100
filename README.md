@@ -1,31 +1,33 @@
 # 初めまして、私はショイコットと言います。私のGitHubにようこそ。
 
-I love everything related to science.
-But currently I am trying to be a better programmer.
+I love everything science.
+I am trying to be a better programmer.
 I love low level programming, graphics programming and C++.
 I love making different tools with C++ 
-but I find graphics programming the most fascinating.
-I am currently trying to make a game engine 
-with DirectX12 and Vulkan support.
-Using lots of Dynamic Libraries and DI.
-My main targeted platform is Windows 
-but I might try to support Android and (some Window Managers) Linux as well, idk.
+but graphics programming is most fascinating.
+Currently I am trying to make a game engine 
+using DirectX12 and Vulkan.
+The main targeted platform is Windows 
+but I might try to support Android and 
+(some Window Managers) 
+Linux as well later down the road, idk.
 
-A little bit more about myself.
-I love music. I listen to all kinds of Metal and
-Japanese Pop. Japanese Pop only,
-I absolutely despise most English Pop music except few
+Now a little bit about myself.
+I love music. I mostly listen to all kinds of Metal and
+Japanese Pop. Though Japanese Pop only,
+I absolutely despise most English Pop music 
+except few
 old ones, which I have grown up with.
 I love both dogs and cats.
-Want to own a Shiba and a British Shorthair.
+I want to own a Shiba and a British Shorthair.
 I really love learning about history.
 While still on that topic,
 I consider myself a self proclaimed linguistic and polyglot xD.
 I love learning new human languages as well as their culture.
-I can express myself perfectly in Bengali and English.
+I can express myself in Bengali and English.
 But I am not very good at talking to other people.
-I'm also learning Japanese and can make simple conversations. Though I am getting better at Japanese at an alarming rate might I say xD.
-I find Kanji fascinating [面白い].
+I'm also learning Japanese and can make simple conversations. Though I am getting better at Japanese at an alarming rate, might I say xD.
+I find Kanji really fascinating [面白い].
 I love Cosmology the most among all things science. I would really love to see humanity as a spacefaring civilization before dying.
 I would also like to visit Earth's moon and Mars one day.
 
