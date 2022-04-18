@@ -22,7 +22,7 @@ I love both dogs and cats.
 I want to own a Shiba and a British Shorthair.
 I really love learning about history.
 While still on that topic,
-I consider myself a self proclaimed linguistic and polyglot xD.
+I consider myself a language enthusiast.
 I love learning new human languages as well as their culture.
 I can express myself in Bengali and English.
 But I am not very good at talking to other people.
@@ -31,7 +31,7 @@ I find Kanji really fascinating [面白い].
 I love Cosmology the most among all things science. I would really love to see humanity as a spacefaring civilization before dying.
 I would also like to visit Earth's moon and Mars one day.
 
-## ありがとうございました。
+## 読んでありがとうございます。
 <!--
 **razerx100/razerx100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
