@@ -1,37 +1,26 @@
-# 初めまして、私はショイコットと言います。私のGitHubにようこそ。
+# 初めまして、ショイコットと言います。僕のGitHubにようこそ。
 
-I love everything science.
+I love science. 科学が大好き。
 I am trying to be a better programmer.
 I love low level programming, graphics programming and C++.
-I love making different tools with C++ 
-but graphics programming is most fascinating.
-Currently I am trying to make a game engine 
-using DirectX12 and Vulkan.
-The main targeted platform is Windows 
-but I might try to support Android and 
-(some Window Managers) 
-Linux as well later down the road, idk.
+Currently I am dabbling in DirectX12 and Vulkan.
 
-Now a little bit about myself.
-I love music. I mostly listen to all kinds of Metal and
-Japanese Pop. Though Japanese Pop only,
-I absolutely despise most English Pop music 
-except few
-old ones, which I have grown up with.
-I love both dogs and cats.
-I want to own a Shiba and a British Shorthair.
-I really love learning about history.
-While still on that topic,
-I consider myself a language enthusiast.
-I love learning new human languages as well as their culture.
+A little bit about myself:
+I love music. I listen to all kinds of Metal and
+Japanese Pop. Emphasis on Japanese Pop;
+I don't like western Pop except a few old ones.
+I love dogs and cats. Don't like reptiles.
+I want a Shiba and a British Shorthair.
+I love history.
+I also love learning about Languages and linguistics.
 I can express myself in Bengali and English.
-But I am not very good at talking to other people.
-I'm also learning Japanese and can make simple conversations. Though I am getting better at Japanese at an alarming rate, might I say xD.
-I find Kanji really fascinating [面白い].
-I love Cosmology the most among all things science. I would really love to see humanity as a spacefaring civilization before dying.
-I would also like to visit Earth's moon and Mars one day.
+But I am not good at talking to other people.
+I'm learning Japanese.
+I find Kanji really fascinating.
+I love space and Cosmology a lot. I would really love to see humanity as a spacefaring civilization before dying.
+I would also like to visit Earth's moon and Mars one day or maybe even farther into our Solar system.
 
-## 読んでありがとうございました。
+## ありがとうございました。
 <!--
 **razerx100/razerx100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
