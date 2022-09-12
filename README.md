@@ -1,24 +1,22 @@
 # 初めまして、ショイコットと言います。僕のGitHubにようこそ。
 
-I love science. 科学が大好き。
-I am trying to be a better programmer.
-I love low level programming, graphics programming and C++.
-Currently I am dabbling in DirectX12 and Vulkan.
+私は科学が大好きです。
+良いプログラマーになってできます.
+Low level programming、graphics programming、C++が好きです.
+DirectX12とVulkanを学んでいます.
 
-A little bit about myself:
-I love music. I listen to all kinds of Metal and
-Japanese Pop. Emphasis on Japanese Pop;
-I don't like western Pop except a few old ones.
-I love dogs and cats. Don't like reptiles.
-I want a Shiba and a British Shorthair.
-I love history.
-I also love learning about Languages and linguistics.
-I can express myself in Bengali and English.
-But I am not good at talking to other people.
-I'm learning Japanese.
-I find Kanji really fascinating.
-I love space and Cosmology a lot. I would really love to see humanity as a spacefaring civilization before dying.
-I would also like to visit Earth's moon and Mars one day or maybe even farther into our Solar system.
+自分のことを少し:
+音楽が好きです。メタルと日本の音楽を聞きます。
+犬と猫が大好きです。爬虫類が好きではないです。
+柴犬とBritish Shorthairが欲しいです。
+歴史が好きです。
+言語と言語学が大好きです。
+英語が上手だと思います。
+日本語を学んでいます。
+漢字が面白いと思います。
+宇宙と天文学が好きです。
+I would really love to see humanity as a spacefaring civilization before dying.
+I would also like to visit Earth's moon and Mars one day or maybe travel even farther into the expanse.
 
 ## ありがとうございました。
 <!--
