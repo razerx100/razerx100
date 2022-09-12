@@ -1,11 +1,11 @@
 # 初めまして、ショイコットと言います。僕のGitHubにようこそ。
 
 私は科学が大好きです。
-良いプログラマーになってできます.
-Low level programming、graphics programming、C++が好きです.
-DirectX12とVulkanを学んでいます.
+もっと良いプログラマーになりたいです。
+Low level programming、graphics programming、C++が好きです。
+DirectX12とVulkanを学んでいます。
 
-自分のことを少し:
+自分のことを少し：
 音楽が好きです。メタルと日本の音楽を聞きます。
 犬と猫が大好きです。爬虫類が好きではないです。
 柴犬とBritish Shorthairが欲しいです。
