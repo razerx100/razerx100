@@ -3,7 +3,7 @@
 私は科学が大好きなんです。
 もっと良いプログラマーになりたいんです。
 Low level programming、graphics programming、C++が好きなんです。
-DirectX12とVulkanを学んでいます。
+DirectX12とVulkanを学んでいるんです。
 
 自分のことを少し：
 音楽が好きなんです。メタルと日本の音楽を聞くんです。
@@ -12,7 +12,7 @@ DirectX12とVulkanを学んでいます。
 歴史が好きなんです。
 言語と言語学が大好きなんです。
 英語が上手だと思います。
-今、日本語を学んでいます。
+今、日本語を学んでいるんです。
 漢字が面白いと思います。
 宇宙と天文学が好きなんです。
 I would really love to see humanity as a spacefaring civilization before dying.
